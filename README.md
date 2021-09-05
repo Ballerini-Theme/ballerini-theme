@@ -3,8 +3,9 @@ Dark Brown Theme with pastel colors created by Ballerini Community
 ## Themes
 Ballerini Theme currently support 1 application. You can find them below:
 ### Developer Tools
-* ![Visual Studio Code](https://github.com/Ballerini-Theme/visual-studio-code)
-## Install
+* [Visual Studio Code](https://github.com/Ballerini-Theme/visual-studio-code)
+
+if you want to create a new theme based on our palette, [check our guide]().
 ## Color Palette
 
 Palette        | Hex       | RGB           | HSL               | Preview
@@ -23,6 +24,6 @@ Pink Red       | `#E94554` | `233 69 84`   | `355° 79% 59%`    |![Pink Red Colo
 Green          | `#67E480` | `103 228 128` | `132° 70% 65%`    |![Green Color](./palette/green.png)
 
 ## Team
-Initially, the Ballerini Theme was created by ![Alpha Vylly](https://github.com/AlphaLawless). And currently we are looking for people to create a team, to keep theme updates for other plataforms.
+Initially, the Ballerini Theme was created by [Alpha Vylly](https://github.com/AlphaLawless). And currently we are looking for people to create a team, to keep theme updates for other plataforms.
 ## Credits
-The structure of Ballerini Theme was initially created ![Yo Code](https://vscode.readthedocs.io/en/latest/extensions/yocode/), with the help of ![Themes VSCode One](https://themes.vscode.one) for the prototype. And later came to be created a structure inspired by ![Dracula](https://github.com/dracula) and ![Omni](https://github.com/getomni).
+The structure of Ballerini Theme was initially created [Yo Code](https://vscode.readthedocs.io/en/latest/extensions/yocode/), with the help of [Themes VSCode One](https://themes.vscode.one) for the prototype. And later came to be created a structure inspired by [Dracula](https://github.com/dracula) and [Omni](https://github.com/getomni).
