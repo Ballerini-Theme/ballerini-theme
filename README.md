@@ -27,3 +27,7 @@ Green          | `#67E480` | `103 228 128` | `132° 70% 65%`    |![Green Color](
 Initially, the Ballerini Theme was created by [Alpha Vylly](https://github.com/AlphaLawless), inspired by [Ballerini Community's brand guide](https://github.com/Ballerini-Server/BrandGuide). And currently we are looking for people to create a team, to keep theme updates for other plataforms.
 ## Credits
 The structure of Ballerini Theme was initially created [Yo Code](https://vscode.readthedocs.io/en/latest/extensions/yocode/), with the help of [Themes VSCode One](https://themes.vscode.one) for the prototype. And later came to be created a structure inspired by [Dracula](https://github.com/dracula) and [Omni](https://github.com/getomni).
+
+## License
+
+[MIT License](./LICENSE)
