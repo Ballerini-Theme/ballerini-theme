@@ -46,7 +46,7 @@ When the theme is ready to be added to the organization, you need to:
   b) Disable packages (in the same place where we change description); <br>
   c) Add tags (theme, dark-brown-theme, ballerini-theme, ballerini, etc. ); <br>
   d) Add description (✨ Ballerini Theme for ); <br>
-  e) Add Open Graph Image (this is the [link for Figma](), use it to generate an image); <br>
+  e) Add Open Graph Image (this is the [link for Figma](https://www.figma.com/file/UuIbTrfOv2hjnW5MoZi64N/Ballerini-Theme/duplicate), use it to generate an image); <br>
   f) Add protection rule for the `main` branch (check the `Require pull request reviews before merging` and `Require review from CODEOWNERS`); <br>
   g) Close the issue and add a `Completed` label; <br>
   h) Ask the owner to add the new theme on the main repository; <br>
