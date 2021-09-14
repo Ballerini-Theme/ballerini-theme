@@ -8,7 +8,7 @@ Ballerini Theme currently support 1 application. You can find them below:
 ### Terminals
 * [Kitty](https://github.com/Ballerini-Theme/kitty)
 
-if you want to create a new theme based on our palette, [check our guide]().
+if you want to create a new theme based on our palette, [check our guide](https://github.com/Ballerini-Theme/ballerini-theme/blob/main/CONTRIBUTING.md).
 ## Color Palette
 
 Palette        | Hex       | RGB           | HSL               | Preview
