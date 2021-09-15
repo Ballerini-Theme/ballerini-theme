@@ -7,6 +7,7 @@ Ballerini Theme currently support 1 application. You can find them below:
 ### Browsers
 * [Google Chrome](https://github.com/Ballerini-Theme/google-chrome)
 ### Terminals
+* [Alacritty](https://github.com/Ballerini-Theme/alacritty)
 * [Kitty](https://github.com/Ballerini-Theme/kitty)
 
 if you want to create a new theme based on our palette, [check our guide](https://github.com/Ballerini-Theme/ballerini-theme/blob/main/CONTRIBUTING.md).
