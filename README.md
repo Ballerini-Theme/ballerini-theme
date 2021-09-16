@@ -32,7 +32,18 @@ Dark Brown     | `#2F2325` | `47 35 37`    | `350° 15% 16%`    |![Dark Brown Co
 Green          | `#67E480` | `103 228 128` | `132° 70% 65%`    |![Green Color](./palette/green.png)
 Cyan           | `#55EDC4` | `85 237 196`  | `164° 81% 63%`    |![Cyan Color](./palette/cyan.png)
 
+## FAQ
+
+###### "Can I get colors out of the palette?"
+
+Not! If you run away from the theme or add some color out of the palette, it won't be accepted! Unless you remove the color and use color variations that are already established in the color palette.
+
+###### "How do I develop the theme for my application/tool?"
+
+Depending on the platform you use, you'll have to search the application's documentation about the theme creation process and post, if necessary published in some story/marketplace. Any questions please contact us!
+
 ## Team
+
 Initially, the Ballerini Theme was created by [Alpha Vylly](https://github.com/AlphaLawless), inspired by [Ballerini Community's brand guide](https://github.com/Ballerini-Server/BrandGuide). And currently we are looking for people to create a team, to keep theme updates for other plataforms.
 ## Credits
 The structure of Ballerini Theme was initially created [Yo Code](https://vscode.readthedocs.io/en/latest/extensions/yocode/), with the help of [Themes VSCode One](https://themes.vscode.one) for the prototype. And later came to be created a structure inspired by [Dracula](https://github.com/dracula) and [Omni](https://github.com/getomni).
