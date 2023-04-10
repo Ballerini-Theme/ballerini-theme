@@ -1,7 +1,6 @@
 # Ballerini Theme
 
 Dark Brown Theme with pastel colors created by Ballerini Community
-
 ## Themes
 
 Ballerini Theme currently support 1 application. You can find them below:
@@ -13,6 +12,8 @@ Ballerini Theme currently support 1 application. You can find them below:
 ### Browsers
 
 - [Google Chrome](https://github.com/Ballerini-Theme/google-chrome)
+- [Firefox](
+https://addons.mozilla.org/addon/ballerini-theme/)
 
 ### Terminals
 
