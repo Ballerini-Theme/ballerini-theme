@@ -13,8 +13,7 @@ Ballerini Theme currently support 6 applications. You can find them below:
 ### Browsers
 
 - [Google Chrome](https://github.com/Ballerini-Theme/google-chrome)
-- [Firefox](
-https://addons.mozilla.org/addon/ballerini-theme/)
+- [Firefox](https://github.com/Ballerini-Theme/firefox)
 
 ### Terminals
 
