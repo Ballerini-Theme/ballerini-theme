@@ -1,9 +1,10 @@
 # Ballerini Theme
 
-Dark Brown Theme with pastel colors created by Ballerini Community
+Dark Brown Theme with pastel colors created by Ballerini Community.
+
 ## Themes
 
-Ballerini Theme currently support 1 application. You can find them below:
+Ballerini Theme currently support 6 applications. You can find them below:
 
 ### Developer Tools
 
