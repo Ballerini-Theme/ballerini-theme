@@ -4,7 +4,7 @@ Dark Brown Theme with pastel colors created by Ballerini Community.
 
 ## Themes
 
-Ballerini Theme currently support 6 applications. You can find them below:
+Ballerini Theme currently support 8 applications. You can find them below:
 
 ### Developer Tools
 
@@ -14,12 +14,14 @@ Ballerini Theme currently support 6 applications. You can find them below:
 
 - [Google Chrome](https://github.com/Ballerini-Theme/google-chrome)
 - [Firefox](https://github.com/Ballerini-Theme/firefox)
+- [Vivaldi](https://github.com/Ballerini-Theme/vivaldi)
 
 ### Terminals
 
 - [Alacritty](https://github.com/Ballerini-Theme/alacritty)
 - [Kitty](https://github.com/Ballerini-Theme/kitty)
 - [Hyper™](https://github.com/Ballerini-Theme/hyper)
+- [Windows Terminal](https://github.com/Ballerini-Theme/windows-terminal)
 
 if you want to create a new theme based on our palette, [check our guide](https://github.com/Ballerini-Theme/ballerini-theme/blob/main/CONTRIBUTING.md).
 
