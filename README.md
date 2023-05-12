@@ -62,7 +62,7 @@ Initially, the Ballerini Theme was created by [Alpha Vylly](https://github.com/A
 
 ## Credits
 
-The structure of Ballerini Theme was initially created [Yo Code](https://vscode.readthedocs.io/en/latest/extensions/yocode/), with the help of [Themes VSCode One](https://themes.vscode.one) for the prototype. And later came to be created a structure inspired by [Dracula](https://github.com/dracula) and [Omni](https://github.com/getomni).
+The structure of Ballerini Theme was initially created [Yo Code](https://vscode-docs.readthedocs.io/en/stable/tools/yocode/), with the help of [Themes VSCode One](https://themes.vscode.one) for the prototype. And later came to be created a structure inspired by [Dracula](https://github.com/dracula) and [Omni](https://github.com/getomni).
 
 ## License
 
