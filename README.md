@@ -8,9 +8,9 @@ Ballerini Theme currently support 10 applications. You can find them below:
 
 ### Developer Tools
 
-- [Visual Studio Code](https://github.com/Ballerini-Theme/visual-studio-code)
 - [Helix](https://github.com/Ballerini-Theme/helix)
 - [Oh My Posh](https://github.com/Ballerini-Theme/oh-my-posh)
+- [Visual Studio Code](https://github.com/Ballerini-Theme/visual-studio-code)
 
 ### Browsers
 
